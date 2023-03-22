@@ -1,6 +1,6 @@
 Kalkulator pozwalający na przeliczanie liczb dziesiętnych na liczby w kodach InQk
 
-Autor: Tymon Jastrzębski 259526
+Autor: Tymon Jastrzębski 
 
 Budowa programu:
 
